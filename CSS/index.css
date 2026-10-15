@@ -1,0 +1,20 @@
+header{
+    background-color: #5f8;
+    
+}
+main{
+    background-color: lightcyan;
+}
+
+#register1{
+    margin-left: auto;
+}
+
+div{ 
+    
+    border: red 1px solid;
+    width: 280px;
+    height: 550px;
+    margin:auto;
+
+}
